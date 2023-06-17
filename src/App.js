@@ -8,10 +8,10 @@ function App() {
     <>
       <h1>Home page</h1>
       <Router>
-      <Navbar/>
-      <Routes>
-      <Route path='/' exact/>
-      </Routes>
+        <Navbar/>
+        <Routes>
+          <Route path='/' exact />
+        </Routes>
       </Router>
     </>
   );
