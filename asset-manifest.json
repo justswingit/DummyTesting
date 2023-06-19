@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DummyTesting/static/css/main.073c9b0a.css",
+    "main.js": "/DummyTesting/static/js/main.e96d6595.js",
+    "index.html": "/DummyTesting/index.html",
+    "main.073c9b0a.css.map": "/DummyTesting/static/css/main.073c9b0a.css.map",
+    "main.e96d6595.js.map": "/DummyTesting/static/js/main.e96d6595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e96d6595.js"
+  ]
+}
